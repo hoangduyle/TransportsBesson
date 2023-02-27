@@ -2,9 +2,9 @@ package calcultransport;
 
 public class Conditiontaxation {
 
-	static final double idClient = 0;
+	int idClient ;
 	boolean useTaxePortDuGenerale;
 	boolean useTaxePortPayeGenerale;
-	int taxePortDu;
-	int taxePortPaye;
+	double taxePortDu;
+	double taxePortPaye;
 }

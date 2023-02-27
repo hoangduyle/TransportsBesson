@@ -2,7 +2,7 @@ package calcultransport;
 
 public class Client {
 
-	static final double idClient = 0;
+	int idClient;
 	String raisonSociale = "";
 	int codePostal ;
 	String ville ="";
